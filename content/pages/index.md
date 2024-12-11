@@ -11,16 +11,7 @@ sections:
     text: >
       Master of Software Engineering with over 3 years of experience as a Unity
       Game Developer, specialized in mid-core and puzzle mobile games.
-    actions:
-      - label: See Tutorials
-        altText: ''
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Link
+    actions: []
     media:
       url: /images/main-hero.svg
       altText: Unblock your team boost your time to production preview
