@@ -32,7 +32,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - subtitle: Award winning enterprises trust us
+  - subtitle: Game made by me
     images:
       - url: /images/empathy-logo.svg
         altText: Empathy logo
