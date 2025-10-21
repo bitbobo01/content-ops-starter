@@ -40,7 +40,7 @@ sections:
       - url: /images/image_2025-10-21_143452754.png
         altText: Wellster logo
         type: ImageBlock
-      - url: /images/vise-logo.svg
+      - url: /images/image_2025-10-21_143555817.png
         altText: Vise logo
         type: ImageBlock
       - url: /images/telus-logo.svg
