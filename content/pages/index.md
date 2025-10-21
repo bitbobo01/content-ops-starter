@@ -627,8 +627,8 @@ sections:
     colors: bg-light-fg-dark
     type: GenericSection
 seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
+  metaTitle: Thai Huynh Portfolio
+  metaDescription: The website contains works of Thai Huynh.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
