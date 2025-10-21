@@ -32,7 +32,7 @@ sections:
           - pl-16
           - pb-16
           - pr-16
-  - subtitle: Game made by me
+  - subtitle: Games I worked on
     images:
       - url: /images/icon (1).png
         altText: Empathy logo
