@@ -161,14 +161,20 @@ sections:
           textAlign: left
     subtitle: ''
     text: >+
-      <div style="text-align: left">##### This game was developed in 4 months
-      and successfully passed two test market rounds.##### My contributions
-      include:##### **Core Game Mechanics**: Implemented all player interaction
-      systems and gameplay logic.##### **Core Auto-Sort Logic**: Designed and
-      integrated the auto-sort algorithm that calculates the optimal path for
-      player moves.##### **Meta Feature**: Developed a mosaic coloring system,
-      allowing players to fill images with colors based on individual mosaic
-      blocks.#####</div>
+      <div style="text-align: left">This game was developed in 4 months and
+      successfully passed two test market rounds.
+
+
+      My contributions include:*   **Core Game Mechanics**: Implemented all
+      player interaction systems and gameplay logic.
+
+
+      *   **Core Auto-Sort Logic**: Designed and integrated the auto-sort
+      algorithm that calculates the optimal path for player moves.
+
+
+      *   **Meta Feature**: Developed a mosaic coloring system, allowing players
+      to fill images with colors based on individual mosaic blocks.</div>
 
     actions: []
     media:
