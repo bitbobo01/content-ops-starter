@@ -154,7 +154,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: 'Mosaic Master: Puzzle Game'
       color: text-dark
       styles:
         self:
