@@ -11,7 +11,7 @@
     },
     "primaryLinks": [
         {
-            "label": "Pricing",
+            "label": "",
             "url": "/pricing",
             "icon": "arrowRight",
             "iconPosition": "right",
@@ -19,7 +19,7 @@
             "type": "Link"
         },
         {
-            "label": "Blog",
+            "label": "",
             "altText": "Blog",
             "url": "/blog",
             "icon": "arrowRight",
@@ -28,7 +28,7 @@
             "type": "Link"
         },
         {
-            "label": "Careers",
+            "label": "",
             "altText": "Careers page",
             "url": "/careers",
             "icon": "arrowRight",
@@ -37,8 +37,8 @@
             "type": "Link"
         },
         {
-            "label": "Dropdown",
-            "altText": "Dropdown",
+            "label": "",
+            "altText": "",
             "links": [
                 {
                     "label": "Dropdown item",
