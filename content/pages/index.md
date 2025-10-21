@@ -94,7 +94,7 @@ sections:
     type: DividerSection
   - type: GenericSection
     title:
-      text: 'Athero: Dungeon and Monsters'
+      text: 'Athero: Dungeon and Monster'
       color: text-dark
       styles:
         self:
