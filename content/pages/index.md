@@ -9,7 +9,7 @@ sections:
       type: TitleBlock
     subtitle: Welcome to my portfolio
     text: >
-      Master of Software Engineering with over 3 years of experience as a Unity
+      Master of Software Engineering with over 4 years of experience as a Unity
       Game Developer, specialized in mid-core and puzzle mobile games.
     actions: []
     media:
