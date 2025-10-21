@@ -43,7 +43,7 @@ sections:
       - url: /images/image_2025-10-21_143555817.png
         altText: Vise logo
         type: ImageBlock
-      - url: /images/telus-logo.svg
+      - url: /images/powerSort.png
         altText: Telus logo
         type: ImageBlock
       - url: /images/image_2025-10-21_143042892.png
