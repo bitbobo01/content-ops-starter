@@ -34,7 +34,7 @@ sections:
           - pr-16
   - subtitle: Game made by me
     images:
-      - url: /images/empathy-logo.svg
+      - url: /images/icon (1).png
         altText: Empathy logo
         type: ImageBlock
       - url: /images/wellster-logo.svg
