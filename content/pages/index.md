@@ -13,7 +13,7 @@ sections:
       Game Developer, specialized in mid-core and puzzle mobile games.
     actions: []
     media:
-      url: /images/background-grid.svg
+      url: /images/image_2025-10-21_144120942.png
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
