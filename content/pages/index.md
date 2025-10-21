@@ -101,11 +101,27 @@ sections:
           textAlign: left
       type: TitleBlock
     subtitle: Action roguelike
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      This is a game I worked on for 1.5 years. I contributed to the design and
+      implementation of the following systems:
+
+
+      *   **AI System for Enemies**: Built a flexible state machine framework
+      that allows designers to create, modify, or remove enemy behaviors
+      directly through Excel configuration files without touching code.
+
+
+      *   **Projectile System**: Developed a system for various projectile
+      types, each with its own AI logic. The setup and behavior are also fully
+      configurable via Excel, similar to the AI system.
+
+
+      *   **In-Game Progression & Tools**: Implemented core gameplay features
+      including Skills, Talents, Level Design Tools, Shop, Inventory, Equipment,
+      Quests, and Daily Activities.
+
+
+
     actions: []
     media:
       title: Title of the video
