@@ -280,7 +280,9 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: An enhanced version featuring new meta systems and polished animations.
+    subtitle: >-
+      An enhanced version of Mosaic Master featuring new meta systems and
+      polished animations.
     text: ''
     actions: []
     media:
