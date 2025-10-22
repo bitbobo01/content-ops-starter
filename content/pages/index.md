@@ -460,11 +460,16 @@ sections:
         self:
           textAlign: left
     subtitle: Level Design tool
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      This tool was built for the Game Design team, allowing them to freely
+      customize their level layouts.
+
+      Designers can modify specific blocks and assign custom values to each one
+      with ease.
+
+      Once finished, they simply copy the generated **LevelCode** code and paste
+      it into Excel — no coding required.
+
     actions: []
     media:
       type: VideoBlock
