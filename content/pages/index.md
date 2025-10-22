@@ -56,6 +56,14 @@ sections:
         style: secondary
         elementId: ''
         label: Facebook
+      - type: Link
+        altText: LinkedIn
+        url: 'https://www.linkedin.com/in/thai-huynh-58114218a'
+        showIcon: true
+        icon: linkedin
+        iconPosition: left
+        style: secondary
+        elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
