@@ -503,7 +503,7 @@ sections:
       type: TitleBlock
       text: Hexa Board Editor
       color: text-dark
-    subtitle: Increase your reach
+    subtitle: Level design tool for HexaBoard in puzzle game
     text: >
       A service that helps businesses to manage their social media accounts and
       posts.
