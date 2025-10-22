@@ -373,7 +373,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Generic section with a video
+      text: Cube Breaker
       color: text-dark
       styles:
         self:
