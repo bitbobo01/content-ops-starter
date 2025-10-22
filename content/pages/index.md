@@ -11,6 +11,8 @@ sections:
     text: >
       Master of Software Engineering with over 4 years of experience as a Unity
       Game Developer, specialized in mid-core and puzzle mobile games.
+
+      **Email**: huynhdinhthai@gmail.com
     actions:
       - type: Link
         label: Facebook
@@ -33,7 +35,7 @@ sections:
       - type: Link
         label: Send email
         altText: Play
-        url: huynhdinhthai@gmail.com
+        url: mailto:huynhdinhthai@gmail.com
         showIcon: true
         icon: mail
         iconPosition: right
