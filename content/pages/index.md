@@ -522,13 +522,7 @@ sections:
       Each cell can be customized based on design needs — for example, it can be
       set as a **locked** tile, a **frozen** tile, or a **rewarded-ad** tile.
 
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
+    actions: []
     media:
       type: ImageBlock
       url: /images/image_2025-10-22_154039859.png
