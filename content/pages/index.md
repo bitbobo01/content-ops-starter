@@ -388,7 +388,9 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Beside games, i also making tools to help people in my team working with
+      the game more efficiency
     items:
       - type: FeaturedItem
         title: Account Executive
