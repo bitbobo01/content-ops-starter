@@ -55,6 +55,7 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+        label: Facebook
     colors: bg-light-fg-dark
     styles:
       self:
