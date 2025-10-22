@@ -523,7 +523,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/image_2025-10-22_154039859.png
       altText: Fun feature preview
     badge:
       type: Badge
