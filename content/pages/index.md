@@ -139,9 +139,6 @@ sections:
       color: text-dark
     subtitle: ''
     text: >+
-      Key Features:
-
-
       *   Custom AI configuration table controlling enemy stats, behaviors, and
       movement patterns.
 
