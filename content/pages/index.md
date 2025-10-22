@@ -46,7 +46,15 @@ sections:
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
       erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
       vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
-    actions: []
+    actions:
+      - type: Link
+        altText: Facebook
+        url: 'https://www.facebook.com/Dinoob1703'
+        showIcon: true
+        icon: facebook
+        iconPosition: left
+        style: secondary
+        elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
