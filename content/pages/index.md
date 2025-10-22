@@ -388,8 +388,7 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: >-
-        https://drive.google.com/file/d/1kfl1540rRFMeU9KM0gVaXsP9PBgay16h/view?usp=sharing
+      url: 'https://youtube.com/shorts/XJ6Ppr02jsk?si=S6E4WNLnN4S91Vro'
       autoplay: true
       loop: true
       muted: true
