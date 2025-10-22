@@ -11,7 +11,16 @@ sections:
     text: >
       Master of Software Engineering with over 4 years of experience as a Unity
       Game Developer, specialized in mid-core and puzzle mobile games.
-    actions: []
+    actions:
+      - type: Link
+        label: Facebook
+        altText: Facebook
+        url: 'https://www.facebook.com/Dinoob1703'
+        showIcon: true
+        icon: facebook
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       url: /images/image_2025-10-21_144120942.png
       altText: Unblock your team boost your time to production preview
