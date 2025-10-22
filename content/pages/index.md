@@ -379,11 +379,15 @@ sections:
         self:
           textAlign: left
     subtitle: Puzzle game
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      *   **Core Game**: Implemented the block-breaking logic based on hammers
+      of matching materials, where only blocks corresponding to the hammer’s
+      material type can be destroyed.
+
+
+      *   **Board Generator**: Used Excel configuration to design levels and
+      JSON files to load and generate them in-game.
+
     actions: []
     media:
       type: VideoBlock
