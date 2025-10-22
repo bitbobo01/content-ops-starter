@@ -21,6 +21,15 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Link
+        label: LinkedIn
+        altText: LinkedIn
+        url: 'https://www.linkedin.com/in/thai-huynh-58114218a'
+        showIcon: true
+        icon: linkedin
+        iconPosition: left
+        style: secondary
+        elementId: ''
     media:
       url: /images/image_2025-10-21_144120942.png
       altText: Unblock your team boost your time to production preview
