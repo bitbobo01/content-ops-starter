@@ -332,11 +332,16 @@ sections:
         self:
           textAlign: left
     subtitle: Section with a video subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      *   **Core Gameplay**: Implemented the color-sorting system that
+      automatically arranges objects to maximize color matches within all
+      available placement slots.
+
+
+      *   **Generating People**: Developed an algorithm for generating passenger
+      blocks, designed with context-aware logic to fit specific gameplay
+      scenarios.
+
     actions: []
     media:
       type: VideoBlock
