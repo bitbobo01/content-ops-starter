@@ -30,6 +30,15 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+      - type: Link
+        label: Send email
+        altText: Play
+        url: huynhdinhthai@gmail.com
+        showIcon: true
+        icon: mail
+        iconPosition: right
+        style: secondary
+        elementId: ''
     media:
       url: /images/image_2025-10-21_144120942.png
       altText: Unblock your team boost your time to production preview
