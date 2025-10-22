@@ -331,7 +331,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: Section with a video subtitle
+    subtitle: Color Puzzle Sort game
     text: >+
       *   **Core Gameplay**: Implemented the color-sorting system that
       automatically arranges objects to maximize color matches within all
