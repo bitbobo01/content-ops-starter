@@ -280,7 +280,7 @@ sections:
       styles:
         self:
           textAlign: left
-    subtitle: This game is remade with new meta feature and new animations
+    subtitle: An enhanced version featuring new meta systems and polished animations.
     text: ''
     actions: []
     media:
