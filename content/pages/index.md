@@ -389,8 +389,8 @@ sections:
         self:
           textAlign: center
     subtitle: >-
-      Beside games, i also making tools to help people in my team working with
-      the game more efficiency
+      Besides making games, I also develop tools to help my team work more
+      efficiently.
     items:
       - type: FeaturedItem
         title: Account Executive
