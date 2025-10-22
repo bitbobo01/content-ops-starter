@@ -504,9 +504,13 @@ sections:
       text: Hexa Board Editor
       color: text-dark
     subtitle: Level design tool for HexaBoard in puzzle game
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      This tool generates Hexa boards similar to those in Hexa Sort.
+
+
+      Each cell can be customized based on design needs — for example, it can be
+      set as a **locked** tile, a **frozen** tile, or a **rewarded-ad** tile.
+
     actions:
       - type: Button
         label: Get started
