@@ -161,10 +161,6 @@ sections:
       type: ImageBlock
       url: /images/image_2025-10-22_144608960.png
       altText: Fun feature preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
     colors: bg-light-fg-dark
     styles:
       self:
