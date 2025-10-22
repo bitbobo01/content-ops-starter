@@ -138,9 +138,24 @@ sections:
       text: Social Media Management
       color: text-dark
     subtitle: Increase your reach
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      Key Features:
+
+
+      *   Custom AI configuration table controlling enemy stats, behaviors, and
+      movement patterns.
+
+
+      *   Flexible State Machine system built to read Excel files and apply
+      behaviors dynamically.
+
+
+      *   Projectile data sheets for defining bullet type, velocity, homing, and
+      orbital parameters.
+
+
+      *   Allows Game Designers to add/edit/delete behaviors directly in Excel.
+
     actions: []
     media:
       type: ImageBlock
