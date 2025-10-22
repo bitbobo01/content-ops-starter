@@ -275,6 +275,61 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
+      text: 'Soulborn Sorcerer'
+      color: text-dark
+      styles:
+        self:
+          textAlign: left
+    subtitle: ''
+    text: >+
+      <div style="text-align: left">This personal project was developed in 2 months and submitted to the Sky Mavis Game Jam.
+
+      *   **Core Game Mechanics**: Includes a projectile and enemy system, wave-based Tower Defense mechanics, and a fully Google Sheet–driven configuration for all gameplay parameters.
+
+      *   The project focuses on delivering the best possible player experience and gameplay feel.
+
+    actions: []
+    media:
+      type: VideoBlock
+      title: Title of the video
+      url: 'https://youtube.com/watch?v=H4wSz7R3IAs'
+      autoplay: true
+      loop: true
+      muted: true
+      controls: false
+      aspectRatio: '16:9'
+      styles:
+        self:
+          padding:
+            - pt-2
+            - pb-2
+            - pl-2
+            - pr-2
+          borderColor: border-dark
+          borderStyle: solid
+          borderWidth: 1
+          borderRadius: large
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        flexDirection: row
+        justifyContent: center
+      subtitle:
+        textAlign: left
+  - type: DividerSection
+    title: Divider
+    elementId: ''
+    colors: bg-light-fg-dark
+    styles:
+      self:
+        padding:
+          - pt-3
+          - pl-3
+          - pb-3
+          - pr-3
+  - type: GenericSection
+    title:
+      type: TitleBlock
       text: 'Splashy Sort: Pool Puzzle'
       color: text-dark
       styles:
@@ -531,42 +586,6 @@ sections:
     styles:
       self:
         alignItems: center
-  - type: GenericSection
-    title:
-      type: TitleBlock
-      text: Business Consulting
-      color: text-dark
-    subtitle: Be in good company
-    text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
-      - type: Link
-        label: See Tutorials
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-    media:
-      type: ImageBlock
-      url: /images/hero3.svg
-      altText: Dope design preview
-    badge:
-      type: Badge
-      label: This is a badge
-      color: text-primary
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        alignItems: center
-        flexDirection: row-reverse
 seo:
   metaTitle: Thai Huynh Portfolio
   metaDescription: The website contains works of Thai Huynh.
