@@ -388,7 +388,8 @@ sections:
     media:
       type: VideoBlock
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: >-
+        https://drive.google.com/file/d/1kfl1540rRFMeU9KM0gVaXsP9PBgay16h/view?usp=sharing
       autoplay: true
       loop: true
       muted: true
