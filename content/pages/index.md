@@ -392,13 +392,7 @@ sections:
       Besides making games, I also develop tools to help my team work more
       efficiently.
     items: []
-    actions:
-      - type: Button
-        label: Apply now
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     variant: toggle-list
     colors: bg-light-fg-dark
     styles:
