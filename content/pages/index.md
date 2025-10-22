@@ -64,6 +64,7 @@ sections:
         iconPosition: left
         style: secondary
         elementId: ''
+        label: Linkedin
     colors: bg-light-fg-dark
     styles:
       self:
