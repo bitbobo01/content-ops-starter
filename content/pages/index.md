@@ -281,11 +281,7 @@ sections:
         self:
           textAlign: left
     subtitle: This game is remade with new meta feature and new animations
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: ''
     actions: []
     media:
       type: VideoBlock
