@@ -65,6 +65,15 @@ sections:
         style: secondary
         elementId: ''
         label: Linkedin
+      - type: Link
+        label: Send email
+        altText: Play
+        url: huynhdinhthai@gmail.com
+        showIcon: true
+        icon: mail
+        iconPosition: right
+        style: secondary
+        elementId: ''
     colors: bg-light-fg-dark
     styles:
       self:
